@@ -1,5 +1,6 @@
 # Analysis of model results
 ## Purpose of the code
+there are three files
 * to train model
 * to show the results by using metrics
 
