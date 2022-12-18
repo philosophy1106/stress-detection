@@ -3,8 +3,8 @@
 The file was written in google colab.  
 First, put the two files into train_file and test_file.
 
-[train_files](https://github.com/Haeun-Y/stress-detection/blob/main/dreaddit-train.csv)  train data file link  
-[test_files](https://github.com/Haeun-Y/stress-detection/blob/main/dreaddit-test.csv)   test data file link
+[train_files](https://github.com/Haeun-Y/stress-detection/blob/main/dreaddit-train.csv)  <- train data file link  
+[test_files](https://github.com/Haeun-Y/stress-detection/blob/main/dreaddit-test.csv)  <- test data file link
 
 And just run, you can see the picture as below
 
