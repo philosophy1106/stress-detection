@@ -1,4 +1,4 @@
-### analysis of words that have a lot of influence on stress detection
+### Analysis of words that have a lot of influence on stress detection
 
 The file was written in google colab.  
 First, put the two files into train_file and test_file.
