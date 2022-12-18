@@ -1,8 +1,8 @@
 # Analysis of model results
 ## Purpose of the code
 there are three files
-* to train model
-* to show the results by using metrics
+* to test MultinomialNB and other models 
+* to drop some categories
 
 <br>
 
