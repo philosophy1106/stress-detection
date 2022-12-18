@@ -6,7 +6,7 @@
 <br>
 
 ## How to run the code
-### 1. [The file](https://github.com/Haeun-Y/stress-detection/blob/main/stress-detection-word/word%20cloud.ipynb) was written in google colab.  
+### 1. All codes was written in google colab.  
 ### 2. put the two files into train_file and test_file.
 
 * [train_files](https://github.com/Haeun-Y/stress-detection/blob/main/dreaddit-train.csv)  <- train data file link  
