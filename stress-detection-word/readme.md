@@ -1,6 +1,6 @@
 ## Analysis of words that have a lot of influence on stress detection
 
-### 1. The file was written in google colab.  
+### 1. [The file](https://github.com/Haeun-Y/stress-detection/blob/main/stress-detection-word/word%20cloud.ipynb) was written in google colab.  
 ### 2. put the two files into train_file and test_file.
 
 [train_files](https://github.com/Haeun-Y/stress-detection/blob/main/dreaddit-train.csv)  <- train data file link  
