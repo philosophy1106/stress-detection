@@ -1,7 +1,7 @@
 # Analysis of model results
 ## Purpose of the code
-there are three files
 * to test MultinomialNB and other models 
+* to use tf-idf instead of CountVectorizer
 * to drop some categories
 
 <br>
