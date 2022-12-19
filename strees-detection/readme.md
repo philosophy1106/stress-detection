@@ -5,7 +5,7 @@
 
 ### 1) open in colab을 누르거나, 오류발생시
 ### 2) 링크접속 https://colab.research.google.com/drive/1-uUk1KSjmhgRemBureZ11qhZtw6UtgNo?usp=sharing
-### 3) colab의 시작페이지에서 github로 불러오기주소: (https://github.com/Haeun-Y/stress-detection) 사용을 이용해 colab에 들어간 후, Stress_Detection.ipynb파일을 통해 들어갑니다.
+### 3) colab의 시작페이지에서 github로 불러오기주소: (https://github.com/Haeun-Y/stress-detection) 사용을 이용해 colab에 들어간 후, Stress_detection.ipynb파일을 통해 들어갑니다.
 ![image](https://user-images.githubusercontent.com/66730012/208398538-645edc18-03b5-4b12-8d4c-89c23a97b13f.png)
 
 
