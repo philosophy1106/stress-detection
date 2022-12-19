@@ -5,7 +5,7 @@
 * categorize the stressed text with many types of stress
 
 ## 2. readme & code for stress detection 
-* [stress detection classifier](https://github.com/Haeun-Y/stress-detection/blob/main/strees-detection/Stress_detection.ipynb)
+* [stress detection classifier](https://github.com/Haeun-Y/stress-detection/tree/main/strees-detection)
 
 ## 3. readme & code for stress types classifier
 * [stress types classifiers](https://github.com/Haeun-Y/stress-detection/blob/main/stress-categorization/readme.md)
