@@ -1,5 +1,7 @@
 # Stress Detection 
 
+##Goal: Detect stress in certain sns posts and detect the type of stress.
+
 
 ## 1. colab 환경으로 접속합니다.
 
