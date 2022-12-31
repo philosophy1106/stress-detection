@@ -1,4 +1,4 @@
-# stress-detection
+# 2022-2 Machine Learning Team Project 
 
 ## 1. Goal of the model
 * detect stressed text with stress detection classifier
